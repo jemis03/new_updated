@@ -1,2 +1,1 @@
-# new_updated
-new_updated
+This is my HTML CSS JS and Bootstrap tutorial
